@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.784b8afa.css",
+    "main.js": "/static/js/main.f619c3da.js",
+    "static/media/aboutus1.png": "/static/media/aboutus1.b01fea3b44c23d25cdf5.png",
+    "static/media/aboutus2.png": "/static/media/aboutus2.eabbfacb0b6f18eb19fb.png",
+    "static/media/aboutus3.png": "/static/media/aboutus3.e5a994f60724d74adeb9.png",
+    "static/media/banner2.png": "/static/media/banner2.4e4d77ce046c91fc0879.png",
+    "static/media/Artisans.jpg": "/static/media/Artisans.1c2daa655fe7629e3f5e.jpg",
+    "static/media/Madhu.jpeg": "/static/media/Madhu.ea3d78b0c121827e80ae.jpeg",
+    "static/media/Abhilasha.jpeg": "/static/media/Abhilasha.197c146d2e892e5bf152.jpeg",
+    "static/media/Palak.jpeg": "/static/media/Palak.d848fcaab295831c94f8.jpeg",
+    "static/media/Khushi.jpeg": "/static/media/Khushi.0b296d9028dbc8abe5a4.jpeg",
+    "static/media/logo.png": "/static/media/logo.b93233cd22d7c093314b.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.784b8afa.css.map": "/static/css/main.784b8afa.css.map",
+    "main.f619c3da.js.map": "/static/js/main.f619c3da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.784b8afa.css",
+    "static/js/main.f619c3da.js"
+  ]
+}
